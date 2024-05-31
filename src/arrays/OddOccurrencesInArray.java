@@ -3,6 +3,11 @@ package src.arrays;
 import java.io.*;
 import java.util.Arrays;
 
+/**
+ * OddOccurrencesInArray
+ *
+ * Goal: Find value that occurs in odd number of elements.
+ */
 public class OddOccurrencesInArray {
     public OddOccurrencesInArray() {
     }

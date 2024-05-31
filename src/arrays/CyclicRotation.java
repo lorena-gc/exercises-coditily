@@ -3,6 +3,11 @@ package src.arrays;
 import java.io.*;
 import java.util.Arrays;
 
+/**
+ * CyclicRotation
+ *
+ * Goal: Rotate an array to the right by a given number of steps.
+ */
 public class CyclicRotation {
     public CyclicRotation() {
     }

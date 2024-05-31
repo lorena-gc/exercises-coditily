@@ -2,6 +2,11 @@ package src.iterations;
 
 import java.io.*;
 
+/**
+ * BinaryGap
+ *
+ * Goal: Find longest sequence of zeros in binary representation of an integer.
+ */
 public class BinaryGap {
     public BinaryGap() {
     }
